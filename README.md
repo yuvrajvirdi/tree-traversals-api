@@ -20,7 +20,7 @@ In your directory, run the following code:
 
 * Navigate to **http://localhost:8080/traversal**
 * All tree queries are done in the format of a level order traversal, since that is most common in reading trees, with dashes between the elements 
-* Query a tree by typing ?treeString=YOUR-TREE
+* Query a tree by typing ?tree=YOUR-TREE-GOES-HERE
 * An example of a query of the tree with the level order traversal of 4,2,6,1,3,5,7 would look like **http://localhost:8080/traversal?tree=4-2-6-1-3-5-7**
 
 # Example
