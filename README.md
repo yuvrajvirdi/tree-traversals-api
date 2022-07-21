@@ -25,7 +25,7 @@ In your directory, run the following code:
 
 # Example
 
-Querying the example link returns the following response:
+Querying `http://localhost:8080/traversal?tree=4-2-6-1-3-5-7` returns the following response:
 
 ```javascript
 {
